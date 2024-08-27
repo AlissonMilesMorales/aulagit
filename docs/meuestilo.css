@@ -1,0 +1,11 @@
+/*seletor de elemento*/
+body{
+    background-color:hsla(0, 0%, 100%, 0.766);
+}
+div{
+    /*border: 10px;*/
+    /*border-style: double;*/
+    border-bottom: 1px solid;
+    margin: 3%;
+    
+}
